@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaegertm10
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 📫 How to reach me is thomas.jaeger@maf.education
+- 📫 How to reach me is thomas.jaeger@msf.education
 - 🎨 My favourite colour is light green
 
 <!---
